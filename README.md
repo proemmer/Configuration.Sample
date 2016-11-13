@@ -1,2 +1,2 @@
-# Configuration.Smaple
+# Configuration.Sample
 Smaples for IOptions
